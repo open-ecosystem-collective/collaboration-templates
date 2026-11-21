@@ -1,0 +1,62 @@
+name: "Change request / Änderungswunsch"
+description: "Suggest a change to one of the templates. Schlage eine Änderung an einer der Vorlagen vor."
+title: "[Change] "
+labels: ["change request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **English:** Thanks for helping improve the templates. Every critique comes with a suggestion: instead of «I don't like this», write «I'd put it like this». One topic per issue.
+
+        **Deutsch:** Danke, dass du die Vorlagen verbesserst. Jede Kritik kommt mit einem Vorschlag: statt «Das gefällt mir nicht» schreibst du «Ich würde es so formulieren». Ein Thema pro Issue.
+  - type: dropdown
+    id: template
+    attributes:
+      label: "Template / Vorlage"
+      options:
+        - "Collaboration Framework Agreement / Rahmenvereinbarung Zusammenarbeit"
+        - "Customer Project Addendum / Kundenprojekt-Addendum"
+        - "Project Coordination Meeting Notes / Notizen für Koordinationsmeetings"
+        - "README, licence or contributing guide / README, Lizenz oder Beitragsrichtlinien"
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: "Language version / Sprachfassung"
+      options:
+        - "English"
+        - "Deutsch (Schweiz)"
+        - "Both / Beide"
+    validations:
+      required: true
+  - type: input
+    id: clause
+    attributes:
+      label: "Clause or section / Klausel oder Abschnitt"
+      placeholder: "e.g. / z. B. Art. 5.4"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: "What is the problem? / Was ist das Problem?"
+      description: "What doesn't work, is unclear or is missing? / Was funktioniert nicht, ist unklar oder fehlt?"
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: "Your suggested wording / Dein Formulierungsvorschlag"
+      description: "Write the new text as you would like it to read. / Schreib den neuen Text so, wie er lauten soll."
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: "Before you submit / Bevor du absendest"
+      options:
+        - label: "No company names, people or real deals: the templates stay fully anonymised. / Keine Firmennamen, Personen oder echten Geschäfte: Die Vorlagen bleiben vollständig anonymisiert."
+          required: true
+        - label: "I understand this issue is public. / Mir ist bewusst, dass dieses Issue öffentlich ist."
+          required: true

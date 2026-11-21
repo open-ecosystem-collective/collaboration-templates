@@ -1,0 +1,70 @@
+name: "Offer a legal review / Rechtsprüfung anbieten"
+description: "You're a lawyer and would like to review the templates. Du bist Anwalt und möchtest die Vorlagen prüfen."
+title: "[Legal review] "
+labels: ["legal review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **English:** The templates have not been legally verified yet. If you are a lawyer and would like to review them, we are happy to hear from you. Reviews for Swiss law and for other jurisdictions are equally welcome. With your consent, we name reviewers in the README.
+
+        **Deutsch:** Die Vorlagen sind noch nicht rechtlich geprüft. Wenn du Anwalt bist und sie prüfen möchtest, freuen wir uns über deine Nachricht. Prüfungen für Schweizer Recht und für andere Rechtsordnungen sind gleichermassen willkommen. Mit deinem Einverständnis nennen wir Prüfer im README.
+
+        This issue is public. Please don't post private contact details here. / Dieses Issue ist öffentlich. Bitte keine privaten Kontaktdaten hier eintragen.
+  - type: input
+    id: name
+    attributes:
+      label: "Name and firm / Name und Kanzlei"
+      description: "As you would like to be named, if at all. / So, wie du genannt werden möchtest, falls überhaupt."
+    validations:
+      required: false
+  - type: dropdown
+    id: jurisdiction
+    attributes:
+      label: "Jurisdiction / Rechtsordnung"
+      multiple: true
+      options:
+        - "Switzerland / Schweiz"
+        - "Germany / Deutschland"
+        - "Austria / Österreich"
+        - "Other EU country / Anderes EU-Land"
+        - "Other / Andere"
+    validations:
+      required: true
+  - type: dropdown
+    id: templates
+    attributes:
+      label: "Templates you would review / Vorlagen, die du prüfen würdest"
+      multiple: true
+      options:
+        - "Collaboration Framework Agreement / Rahmenvereinbarung Zusammenarbeit"
+        - "Customer Project Addendum / Kundenprojekt-Addendum"
+        - "Project Coordination Meeting Notes / Notizen für Koordinationsmeetings"
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: "Language version / Sprachfassung"
+      options:
+        - "English"
+        - "Deutsch (Schweiz)"
+        - "Both / Beide"
+    validations:
+      required: true
+  - type: textarea
+    id: offer
+    attributes:
+      label: "Your offer / Dein Angebot"
+      description: "Scope, focus (e.g. liability, jurisdiction, use outside Switzerland, arbitration for EU partners) and timeframe. / Umfang, Schwerpunkt (z. B. Haftung, Gerichtsstand, Verwendung ausserhalb der Schweiz, Schiedsgerichtsbarkeit für EU-Partner) und Zeitrahmen."
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: "Consent / Einverständnis"
+      options:
+        - label: "I understand this issue is public. / Mir ist bewusst, dass dieses Issue öffentlich ist."
+          required: true
+        - label: "You may name me as a reviewer in the README once the review is done. / Ihr dürft mich nach der Prüfung im README als Prüfer nennen."
+          required: false
