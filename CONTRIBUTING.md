@@ -4,11 +4,11 @@ These templates get better when the ecosystem works on them together. Every cont
 
 ## Lawyers welcome
 
-The templates have **not been legally verified yet**. If you are a lawyer and would like to review them, we are happy to hear from you: [open an issue](https://github.com/open-ecosystem-collective/collaboration-templates/issues). Reviews for Swiss law and for other jurisdictions are equally welcome. With your consent, we name reviewers in the README.
+The templates have **not been legally verified yet**. If you are a lawyer and would like to review them, we are happy to hear from you: [offer a review](https://github.com/open-ecosystem-collective/collaboration-templates/issues/new?template=legal-review-offer.yml). Reviews for Swiss law and for other jurisdictions are equally welcome. With your consent, we name reviewers in the README.
 
 ## How to suggest changes
 
-1. **Open an issue** describing what you would change and why.
+1. **Open a [change request](https://github.com/open-ecosystem-collective/collaboration-templates/issues/new?template=change-request.yml)** describing what you would change and why. The form works in English and German.
 2. **Or open a pull request** with your change. Keep one topic per pull request.
 3. Explain in the description which clause or section is affected and what problem the change solves.
 

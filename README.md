@@ -4,7 +4,7 @@ Open templates from the **Open Ecosystem Collective (OEC)** that help companies 
 
 > **Not legally verified: have it checked by a lawyer.** These are templates, not finished contracts. They have not been reviewed by a lawyer yet and are not legal advice. Everyone who uses them must show them to their own lawyer before signing and make sure they are correct and fit their situation and jurisdiction.
 >
-> **Lawyers welcome:** if you are a lawyer and would like to review these templates, we are happy to hear from you: [open an issue](https://github.com/open-ecosystem-collective/collaboration-templates/issues). See [CONTRIBUTING.md](CONTRIBUTING.md).
+> **Lawyers welcome:** if you are a lawyer and would like to review these templates, we are happy to hear from you: [offer a review](https://github.com/open-ecosystem-collective/collaboration-templates/issues/new?template=legal-review-offer.yml). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## The templates
 
@@ -13,6 +13,16 @@ Open templates from the **Open Ecosystem Collective (OEC)** that help companies 
 | [Collaboration Framework Agreement](templates/collaboration-framework-agreement.md) | The basis of the collaboration between two companies | Signed once, at onboarding, always between two Parties |
 | [Customer Project Addendum](templates/customer-project-addendum.md) | The «mission report» for one joint customer project: customer, roles, hours, commercial basis | Signed per lead or project, with any number of Parties |
 | [Project Coordination Meeting Notes](templates/coordination-meeting-notes.md) | Ready-to-use notes for partner kick-off, pitch preparation, pitch, coordination and closing meetings | Used throughout the project |
+
+### Deutsche Fassung (Schweiz)
+
+| Vorlage | Zweck |
+| --- | --- |
+| [Rahmenvereinbarung Zusammenarbeit](templates/de-ch/rahmenvereinbarung-zusammenarbeit.md) | Die Grundlage der Zusammenarbeit zwischen zwei Unternehmen |
+| [Kundenprojekt-Addendum](templates/de-ch/kundenprojekt-addendum.md) | Der «Einsatzbericht» für ein gemeinsames Kundenprojekt |
+| [Notizen für Koordinationsmeetings](templates/de-ch/koordinationsmeeting-notizen.md) | Fertige Notizen für alle Meetings im Projekt |
+
+Both language versions say the same thing. Agree in Art. 20.3 which one is binding. / Beide Sprachfassungen sagen dasselbe. In Art. 20.3 festlegen, welche massgebend ist.
 
 ## Principles
 
@@ -40,10 +50,15 @@ collaboration-templates/
 ├── README.md
 ├── LICENSE.md
 ├── CONTRIBUTING.md
+├── .github/ISSUE_TEMPLATE/   change request and legal review forms (EN/DE)
 └── templates/
     ├── collaboration-framework-agreement.md
     ├── customer-project-addendum.md
-    └── coordination-meeting-notes.md
+    ├── coordination-meeting-notes.md
+    └── de-ch/                  German version for Switzerland
+        ├── rahmenvereinbarung-zusammenarbeit.md
+        ├── kundenprojekt-addendum.md
+        └── koordinationsmeeting-notizen.md
 ```
 
 ## Licence
