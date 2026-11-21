@@ -4,13 +4,15 @@ Open Ecosystem Collective
 
 > **Not legally verified: have it checked by a lawyer.** This is a template, not a finished contract. It has not been reviewed by a lawyer yet and is not legal advice. Everyone who uses it must show it to their own lawyer before signing and make sure it is correct and fits their situation and jurisdiction.
 >
-> **Lawyers welcome:** if you are a lawyer and would like to review this template, we are happy to hear from you: [open an issue](https://github.com/open-ecosystem-collective/collaboration-templates/issues).
+> **Lawyers welcome:** if you are a lawyer and would like to review this template, we are happy to hear from you: [offer a review](https://github.com/open-ecosystem-collective/collaboration-templates/issues/new?template=legal-review-offer.yml).
 
 Annex 1 to the bilateral Collaboration Framework Agreement(s) between the Parties listed in section 1. A project may involve any number of Parties: Parties A and B are mandatory, further Parties (C, D and more) are optional (Art. 1.5). This Addendum becomes an integral part of the relevant Framework Agreements once signed by all Parties involved. It is the «mission report» for one customer project: who the customer is, who does what, and on which commercial basis.
 
 > **How to use this template:** Use it together with the [OEC Template: Collaboration Framework Agreement](collaboration-framework-agreement.md). Every Framework Agreement is signed between two Parties; only this Addendum can bring any number of Parties together (Art. 1.5). The tables show Parties A to D: add columns and rows for further Parties, or delete those not needed. Share the Addendum for information at onboarding and sign it per lead or project, ideally only for active collaboration (Tier 1). Fill it in as soon as a lead is qualified: then roles, hours and fees are settled before anyone talks money with the customer. Replace all `[placeholders]` and delete the recommendation blocks before signing. Have the completed Addendum checked by a lawyer before signing.
 
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Free for everyone to use, adapt and share, also commercially, provided the Open Ecosystem Collective is credited as the source and changes are indicated.
+
+A German version for Switzerland is available: [Deutsche Fassung (Schweiz)](de-ch/kundenprojekt-addendum.md).
 
 ## 1. Reference to the Framework Agreement
 

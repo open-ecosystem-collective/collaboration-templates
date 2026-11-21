@@ -4,13 +4,15 @@ Open Ecosystem Collective
 
 > **Not legally verified.** These meeting notes refer to the OEC Collaboration Framework Agreement and Customer Project Addendum templates, which have not been reviewed by a lawyer yet and are not legal advice. Everyone who uses them must have the agreements checked by their own lawyer before signing.
 >
-> **Lawyers welcome:** if you are a lawyer and would like to review the templates, we are happy to hear from you: [open an issue](https://github.com/open-ecosystem-collective/collaboration-templates/issues).
+> **Lawyers welcome:** if you are a lawyer and would like to review the templates, we are happy to hear from you: [offer a review](https://github.com/open-ecosystem-collective/collaboration-templates/issues/new?template=legal-review-offer.yml).
 
 Ready-to-use notes for the meetings of a joint customer project: partner kick-off, pitch preparation, pitch at the customer's site, recurring coordination and closing. The first two meetings are between the partners only; the customer meets all Parties for the first time at the pitch at his premises. Copy the section you need for each meeting, fill it in during the meeting and share it with all Parties within [one (1)] working day.
 
 > **How to use this template:** It belongs to the [OEC Template: Collaboration Framework Agreement](collaboration-framework-agreement.md) and the [OEC Template: Customer Project Addendum](customer-project-addendum.md). The Lead Partner chairs the meetings and keeps the notes. Replace all `[placeholders]`. The tables show Parties A to D: add rows or columns for further Parties, or delete those not needed. Parties A and B are mandatory, there is no maximum.
 
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Free for everyone to use, adapt and share, also commercially, provided the Open Ecosystem Collective is credited as the source and changes are indicated.
+
+A German version for Switzerland is available: [Deutsche Fassung (Schweiz)](de-ch/koordinationsmeeting-notizen.md).
 
 ## Ground rules for every meeting
 

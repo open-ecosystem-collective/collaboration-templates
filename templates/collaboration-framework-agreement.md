@@ -4,7 +4,9 @@ Open Ecosystem Collective
 
 > **Not legally verified: have it checked by a lawyer.** This is a template, not a finished contract. It has not been reviewed by a lawyer yet and is not legal advice. Everyone who uses it must show it to their own lawyer before signing and make sure it is correct and fits their situation and jurisdiction.
 >
-> **Lawyers welcome:** if you are a lawyer and would like to review this template, we are happy to hear from you: [open an issue](https://github.com/open-ecosystem-collective/collaboration-templates/issues).
+> **Lawyers welcome:** if you are a lawyer and would like to review this template, we are happy to hear from you: [offer a review](https://github.com/open-ecosystem-collective/collaboration-templates/issues/new?template=legal-review-offer.yml).
+
+A German version for Switzerland is available: [Deutsche Fassung (Schweiz)](de-ch/rahmenvereinbarung-zusammenarbeit.md).
 
 ## About this template
 
