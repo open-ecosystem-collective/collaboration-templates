@@ -8,7 +8,7 @@ The templates have **not been legally verified yet**. If you are a lawyer and wo
 
 ## How to suggest changes
 
-1. **Open a [change request](https://github.com/open-ecosystem-collective/collaboration-templates/issues/new?template=change-request.yml)** describing what you would change and why. The form works in English and German.
+1. **Open a [change request](https://github.com/open-ecosystem-collective/collaboration-templates/issues/new?template=change-request.yml)** describing what you would change and why.
 2. **Or open a pull request** with your change. Keep one topic per pull request.
 3. Explain in the description which clause or section is affected and what problem the change solves.
 

@@ -14,15 +14,14 @@ Open templates from the **Open Ecosystem Collective (OEC)** that help companies 
 | [Customer Project Addendum](templates/customer-project-addendum.md) | The «mission report» for one joint customer project: customer, roles, hours, commercial basis | Signed per lead or project, with any number of Parties |
 | [Project Coordination Meeting Notes](templates/coordination-meeting-notes.md) | Ready-to-use notes for partner kick-off, pitch preparation, pitch, coordination and closing meetings | Used throughout the project |
 
-### Deutsche Fassung (Schweiz)
+## Guides
 
-| Vorlage | Zweck |
+| Guide | For |
 | --- | --- |
-| [Rahmenvereinbarung Zusammenarbeit](templates/de-ch/rahmenvereinbarung-zusammenarbeit.md) | Die Grundlage der Zusammenarbeit zwischen zwei Unternehmen |
-| [Kundenprojekt-Addendum](templates/de-ch/kundenprojekt-addendum.md) | Der «Einsatzbericht» für ein gemeinsames Kundenprojekt |
-| [Notizen für Koordinationsmeetings](templates/de-ch/koordinationsmeeting-notizen.md) | Fertige Notizen für alle Meetings im Projekt |
-
-Both language versions say the same thing. Agree in Art. 20.3 which one is binding. / Beide Sprachfassungen sagen dasselbe. In Art. 20.3 festlegen, welche massgebend ist.
+| [Why collaboration is good for the customer](collaboration-customer-benefits.md) | Partners preparing a joint offer |
+| [Customer one-pager](customer-onepager.md) | Handing to the customer before the question comes up |
+| [Why collaboration is good for the partner](collaboration-partner-benefits.md) | Companies deciding whether to collaborate |
+| [From lead to success story](lead-process.md) | Partners working a lead together, step by step |
 
 ## Principles
 
@@ -50,15 +49,15 @@ collaboration-templates/
 ├── README.md
 ├── LICENSE.md
 ├── CONTRIBUTING.md
-├── .github/ISSUE_TEMPLATE/   change request and legal review forms (EN/DE)
+├── collaboration-customer-benefits.md
+├── customer-onepager.md
+├── collaboration-partner-benefits.md
+├── lead-process.md
+├── .github/ISSUE_TEMPLATE/   change request and legal review forms
 └── templates/
     ├── collaboration-framework-agreement.md
     ├── customer-project-addendum.md
-    ├── coordination-meeting-notes.md
-    └── de-ch/                  German version for Switzerland
-        ├── rahmenvereinbarung-zusammenarbeit.md
-        ├── kundenprojekt-addendum.md
-        └── koordinationsmeeting-notizen.md
+    └── coordination-meeting-notes.md
 ```
 
 ## Licence
