@@ -12,8 +12,6 @@ Annex 1 to the bilateral Collaboration Framework Agreement(s) between the Partie
 
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Free for everyone to use, adapt and share, also commercially, provided the Open Ecosystem Collective is credited as the source and changes are indicated.
 
-A German version for Switzerland is available: [Deutsche Fassung (Schweiz)](de-ch/kundenprojekt-addendum.md).
-
 ## 1. Reference to the Framework Agreement
 
 | Party | Legal name and address | Framework Agreement with (Party, date) |

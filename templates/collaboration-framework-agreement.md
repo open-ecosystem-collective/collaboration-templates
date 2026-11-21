@@ -6,8 +6,6 @@ Open Ecosystem Collective
 >
 > **Lawyers welcome:** if you are a lawyer and would like to review this template, we are happy to hear from you: [offer a review](https://github.com/open-ecosystem-collective/collaboration-templates/issues/new?template=legal-review-offer.yml).
 
-A German version for Switzerland is available: [Deutsche Fassung (Schweiz)](de-ch/rahmenvereinbarung-zusammenarbeit.md).
-
 ## About this template
 
 This template gives two companies a ready-made framework to work together on customer projects instead of competing for them. It is one of two templates that belong together: the **Collaboration Framework Agreement** (the basis of the collaboration, signed once) and the **Customer Project Addendum** (the «mission report» for each joint customer project).

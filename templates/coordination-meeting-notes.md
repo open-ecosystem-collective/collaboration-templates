@@ -12,8 +12,6 @@ Ready-to-use notes for the meetings of a joint customer project: partner kick-of
 
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Free for everyone to use, adapt and share, also commercially, provided the Open Ecosystem Collective is credited as the source and changes are indicated.
 
-A German version for Switzerland is available: [Deutsche Fassung (Schweiz)](de-ch/koordinationsmeeting-notizen.md).
-
 ## Ground rules for every meeting
 
 - **Both SPOCs of every Party attend the internal meetings.** Each Party sends its Sales SPOC and its Technical SPOC to every partner meeting, so that all information is available to everyone (Art. 4.4). Not every Party has to attend: a Party that cannot attend sends a briefed deputy or hands its attendance to another partner it fully trusts, who passes on all information.
